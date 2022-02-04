@@ -1,0 +1,3 @@
+# Shopping Cart Simulation
+* 1,Backlog,Express Carts,F,jep,owner,false
+- [Backlog] Express carts always choose the shortest line. If there are multiple shortest lines, an express cart chooses the one with the smallest index.

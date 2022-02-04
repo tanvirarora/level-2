@@ -1,0 +1,4 @@
+# Shopping Cart Simulation
+* 2,Owned,Regular Carts,F,jep,,false
+- [Backlog] Regular carts always choose the shortest line excluding the express register line (at index 0). If there are multiple shortest lines, a regular cart chooses one with the smallest index.
+- [Owned] Adding to sesmith5 backlog.

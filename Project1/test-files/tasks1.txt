@@ -1,0 +1,40 @@
+# Shopping Cart Simulation
+* 1,Backlog,Express Carts,F,jep,unowned,false
+- [Backlog] Express carts always choose the shortest line. If there are multiple shortest lines, an express cart chooses the one with the smallest index.
+* 2,Owned,Regular Carts,F,jep,sesmith5,false
+- [Backlog] Regular carts always choose the shortest line excluding the express register line (at index 0). If there are multiple shortest lines, a regular cart chooses one with the smallest index.
+- [Owned] Adding to sesmith5 backlog.
+* 3,Processing,Java Swing,KA,sesmith5,sesmith5,false
+- [Backlog] Learn more about Swing to debug GUI.
+- [Owned] Adding to sesmith5 backlog.
+- [Processing] Found Swing tutorials at http://docs.oracle.com/javase/tutorial/uiswing/start/.
+* 5,Verifying,Calculating Wait Time,B,jdyoung2,sesmith5,false
+- [Backlog] Special carts are failing system tests associated with wait time.
+- [Owned] Adding to sesmith5 backlog.
+- [Processing] Replicated failure locally in unit test.
+- [Verifying] Implementation complete. Requires peer inspection.
+* 8,Done,Special Carts,F,jep,sesmith5,true
+- [Backlog] Special carts always choose the shortest special register line.
+If there are multiple shortest special register lines, a special cart
+chooses one with the smallest index.
+- [Owned] Adding to sesmith5 backlog.
+- [Processing] Created hierarchy to prepare for other cart types.
+- [Verifying] Implementation complete. Requires peer inspection.
+- [Done] No problems found during inspection.
+* 10,Rejected,Flatbed carts,F,jep,unowned,false
+- [Backlog] Add flatbed carts to simulation.
+- [Owned] Rejected. Flatbed carts won't fit through physical register stations.
+# WolfScheduler
+* 2,Rejected,Weekly Repeat,F,sesmith5,unowned,false
+- [Backlog] Events should have a weekly repeat of every 1, 2, 3, or 4 weeks.
+- [Owned] Weekly repeat is unnecessary when creating ideal week.
+* 5,Backlog,Add Event,F,sesmith5,unowned,false
+- [Backlog] Users can create events to identify places during their week where they have scheduled activities other than class.
+* 6,Done,Add Course,F,sesmith5,jctetter,true
+- [Backlog] Users can add courses to their schedule.
+- [Owned] Assigning to jctetter.
+- [Processing] Creating Course class.
+- [Processing] Adding error checking on course name.
+- [Processing] Adding tests for Course.
+- [Verifying] Request peer review.
+- [Done] Updates meet requirements and test pass.

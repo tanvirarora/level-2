@@ -1,0 +1,9 @@
+# Shopping Cart Simulation
+* 8,Done,Special Carts,B,jep,sesmith5,false
+- [Backlog] Special carts always choose the shortest special register line. 
+If there are multiple shortest special register lines, a special cart 
+chooses one with the smallest index.
+- [Owned] Adding to sesmith5 backlog.
+- [Processing] Created hierarchy to prepare for other cart types.
+- [Verifying] Implementation complete. Requires peer inspection.
+- [Done] No problems found during inspection.

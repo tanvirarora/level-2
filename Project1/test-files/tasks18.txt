@@ -1,0 +1,5 @@
+# Shopping Cart Simulation
+* 3,Processing,Java Swing,KA,sesmith5,unowned,false
+- [Backlog] Learn more about Swing to debug GUI.
+- [Owned] Adding to sesmith5 backlog.
+- [Processing] Found Swing tutorials at http://docs.oracle.com/javase/tutorial/uiswing/start/.

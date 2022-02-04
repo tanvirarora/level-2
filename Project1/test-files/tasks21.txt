@@ -1,0 +1,4 @@
+# Shopping Cart Simulation
+* 10,Rejected,Flatbed carts,F,jep,owner,false
+- [Backlog] Add flatbed carts to simulation.
+- [Owned] Rejected. Flatbed carts won't fit through physical register stations.

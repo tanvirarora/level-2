@@ -1,0 +1,6 @@
+# Shopping Cart Simulation
+* 5,Verifying,Calculating Wait Time,B,jdyoung2,unowned,false
+- [Backlog] Special carts are failing system tests associated with wait time.
+- [Owned] Adding to sesmith5 backlog.
+- [Processing] Replicated failure locally in unit test.
+- [Verifying] Implementation complete. Requires peer inspection.
